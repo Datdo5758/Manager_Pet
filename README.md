@@ -1,4 +1,6 @@
 # Manager_Pet
-- Trang web quản lý thú cưng
-- sử dụng html, css và javascript
-- có các tính năng thêm, sửa, xoá, sắp xếp, lọc danh sách thú cưng, tìm kiếm, tạo 1 todolist 
+- Pet management website
+- use html, css and javascript
+# Main function:
+- has features to add, edit, delete, sort, filter pet list, search
+- create a todolist
